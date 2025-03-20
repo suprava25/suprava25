@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suprava25
 - 👀 I’m interested in data
-- 🌱 I’m currently learning Python, Data Analysis
+- 🌱 I’m currently learning SQL, Python, Data Analysis
 - 💞️ I’m looking to collaborate on data analysis Project
 - 📫 How to reach me supravaguddi2@gmail.com
 
